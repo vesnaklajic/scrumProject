@@ -1,6 +1,3 @@
-# scrumProject ##database branch
-This branch is designed for files and code related to the Database.
-
 English classes project
 
 ##User requirements document##
