@@ -1,4 +1,6 @@
-# scrumProject
+# scrumProject ## uml
+This branch is designed for receiving files and code related to the UML.
+
 English classes project
 
 ##User requirements document##
