@@ -1,4 +1,4 @@
-scrumProject ##database branch
+scrumProject ##UML branch
 
 This branch is designed for files and code related to the UML.
 
