@@ -1,4 +1,6 @@
-# scrumProject
+# scrumProject ##database branch
+This branch is designed for files and code related to the database.
+
 English classes project
 
 ##User requirements document##
@@ -7,3 +9,4 @@ We are a small newly formed Project management business. As a new business we wo
 Multiple users should be able t oindividually log into the system at any one time and update the various projects.
 
 Our business will open on the 20th March 2020 and we would like the software in place by the 14th of March 2020 so we can familiarise our staff with it.
+
