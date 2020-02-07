@@ -1,5 +1,5 @@
-# scrumProject ## uml
-This branch is designed for receiving files and code related to the UML.
+# scrumProject ## design
+This branch is designed for receiving files and code related to the Interface Design.
 
 English classes project
 
