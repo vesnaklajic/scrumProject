@@ -1,3 +1,7 @@
+scrumProject ##database branch
+
+This branch is designed for files and code related to the UML.
+
 English classes project
 
 ##User requirements document##
