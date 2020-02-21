@@ -1,3 +1,7 @@
+design
+# scrumProject ## design
+This branch is designed for receiving files and code related to the Interface Design.
+master
 English classes project
 
 ##User requirements document##
