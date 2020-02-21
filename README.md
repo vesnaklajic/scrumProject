@@ -1,9 +1,9 @@
-database
-# scrumProject ##database branch
-This branch is designed for files and code related to the Database.
+scrumProject ##UML branch
 
-English classes project v1
-This branch is designed for receiving files and code related to the Interface Design.
+This branch is designed for files and code related to the UML.
+
+English classes project
+uml
 
 ##User requirements document##
 We are a small newly formed Project management business. As a new business we would like a tailor-made, in-house piece of software that is user friendly and allow us to work within the Scrum framework. There are five employees within the business operation within one buoilding,  however we are often on location and it is possible we have several projects on the go at any one time.
